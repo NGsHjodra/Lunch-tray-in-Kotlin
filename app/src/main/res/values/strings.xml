@@ -28,4 +28,6 @@
     <string name="tax">Tax: %s</string>
     <string name="total">Total: %s</string>
     <string name="submit">Submit</string>
+    <string name="new_lunch_order">New Lunch Order</string>
+    <string name="order_details"><![CDATA[<string name=\"order_details\">Quantity: %1$s \\nFlavor: %2$s \\nPickup date: %3$s \\nTotal: %4$s \\n\\nThank you!</string>]]></string>
 </resources>
